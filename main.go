@@ -31,9 +31,6 @@ func main() {
 	fmt.Print(err)
 	// check(err)
 	fmt.Print(string(dat))
-
-	var pwd string = "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"
-	fmt.Print(pwd)
 	sub.Foo()
 
 	sub2.Bar()
